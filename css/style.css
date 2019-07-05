@@ -3,3 +3,19 @@ Body{
   font-family:sans-serif;
   text-align:center;
 }
+#nav{
+  display:flex-box;
+  background-color:black;
+
+}
+ul{
+  display:inline;
+}
+h1{
+  color:#0000ff;
+  font-family: sans-serif;
+  background-color:black;
+}
+h2{
+  color:green;
+}
